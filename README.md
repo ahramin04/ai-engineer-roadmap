@@ -48,6 +48,10 @@ Build **10 excellent projects before trying to show all 50**.
 9. [AI Service CI/CD](projects/45-ai-service-ci-cd.md)
 10. [Enterprise AI Platform Capstone](projects/49-enterprise-ai-platform-capstone.md)
 
+## 📚 Stage-by-Stage Study Hub
+
+[Open the full study hub — courses, YouTube lectures, blogs, papers, documentation and hands-on resources mapped to each stage](resources/STUDY-HUB.md)
+
 ## 🔗 External Learning
 
 - [Python Tutorial](https://docs.python.org/3/tutorial/)
