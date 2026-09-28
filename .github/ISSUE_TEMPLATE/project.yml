@@ -1,0 +1,21 @@
+name: Build a roadmap project
+description: Track a project from idea to shipped demo
+title: "[PROJECT] "
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      placeholder: "32 — AI SDLC Copilot"
+    validations:
+      required: true
+  - type: checkboxes
+    id: done
+    attributes:
+      label: Definition of done
+      options:
+        - label: Code runs from a clean clone
+        - label: Tests added
+        - label: Evaluation metric recorded
+        - label: Documentation updated
+        - label: Demo linked
